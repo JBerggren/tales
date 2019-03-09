@@ -1,5 +1,5 @@
-![Image of mystery](https://jonatanberggren.se/images/deathnote.jpg)
 # The mysterious death note (or how to read a stacktrace)
+![Image of mystery](https://jonatanberggren.se/images/deathnote.jpg)
 > Something terrible has happened.
 
 The panic could clearly be heard. Something truly awful had happened.
