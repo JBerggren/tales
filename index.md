@@ -23,7 +23,7 @@ Unhandled Exception: System.Net.WebException: The remote name could not be resol
    at FileImportAndProcessing.Program.Main(String[] args) in C:\projects\spikes\42Labs\FileImportAndProcessing\Program.cs:line 10
 ```
 
-Filip of course being the “FILe Import and Processing”, a command line program to import data files. Among other things the main product catalog. So this was bad.
+Filip of course being “FILe Import and Processing”, a command line program to import data files. Among other things the main product catalog. This was bad.
 
 > I see. I think I know what happened.
 
