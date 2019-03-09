@@ -7,7 +7,7 @@ The panic could clearly be heard. Something truly awful had happened.
 
 > What?! What happened?
 
-> There is a message
+> I don't know. There is a message but I can't figure it out
 
 ```
 Unhandled Exception: System.Net.WebException: The remote name could not be resolved
