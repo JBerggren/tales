@@ -1,8 +1,8 @@
-#The hair pulling problem (or check your assumptions)
+# The hair pulling problem (or check your assumptions)
 
 > Aarg!!!
 
-> The cry of frustration was clearly heard in the dev room
+The cry of frustration was clearly heard in the dev room
 
 > What’s up?
 
@@ -14,7 +14,7 @@
 
 > What have you tried?
 
-> I was thinking maybe it was a css thing with overflow hidden, and the float. Or maybe the data binding was wrong, or some property is set that makes things hidden in some of the event handlers, or the data parsing...
+> I was thinking maybe it was a css thing with overflow hidden, or a float. Or maybe the data binding was wrong, or some property is set that makes things hidden in some of the event handlers, or the data parsing...
 
 > Ok I see. There are a lot of moving parts and we don’t know where the problem is. Let’s Divide and Conquer
 
@@ -36,7 +36,7 @@
 
 > Hmmm, that’s strange. I’m only getting five items… But why?
 
-> Let’s look at the server code. It says that it defaults to a paging size of five if nothing else is set.
+> Well maybe there is some server side paging, or wrong parameters or a bug in the backend. But now you know where the problem is.
 
 > So I just spent an hour chasing ghosts?
 
