@@ -14,30 +14,26 @@ The cry of frustration was clearly heard in the dev room
 
 > What have you tried?
 
-> I was thinking maybe it was a css thing with overflow hidden, or a float. Or maybe the data binding was wrong, or some property is set that makes things hidden in some of the event handlers, or the data parsing...
+> I was thinking maybe it was a css thing with overflow hidden. Then I was thinking that maybe the data binding was wrong, or some property is set that makes things hidden in some of the event handlers. Maybe its the the data parsing...
 
-> Ok I see. There are a lot of moving parts and we don’t know where the problem is. Let’s Divide and Conquer
+> Ok I see. There are a lot of different parts involved and you have been testing some things on different levels. You need to divide the problem in smaller parts to narrow down where the actual problem is. Divide and Conquer.   
 
-> What?
+> Ok, but where do I start?
 
-> When dealing with a bigger problem you need to break it down into smaller parts. That way you can deal with smaller issues methodically instead of just jumping around. 
-
-> Ok, makes sense but where do I start?
-
-> Check your assumptions
-
-> Huh?
-
-> You have already been looking at the most obvious problem areas. Now it is time to check your assumptions. 
+> Let's start from the bottom and challenge your assumption.
 
 > What do you mean?
 
-> You are assuming that you are getting some data from the server and the problem is in the web page. Are you sure you are getting the data you want from the server? Use the browser developer tools , Fiddler, postman or any other tool  to check what data you are actually getting from the server.
+> You are assuming that you are getting some data from the server and the problem is in the web page. Let's challenge that assumption: Are you sure you are getting the data you want from the server? 
+
+> I think so...
+
+> Well let's be sure. Use the browser developer tools , Fiddler, postman or any other tool  to check what data you are actually getting from the server.
 
 > Hmmm, that’s strange. I’m only getting five items… But why?
 
 > Well maybe there is some server side paging, or wrong parameters or a bug in the backend. But now you know where the problem is.
 
-> So I just spent an hour chasing ghosts?
+> So I just spent an hour chasing ghosts in the web page?
 
-> Hindsight is always 20/20 but it helps to really focus on what you know, challenge your assumptions and Divide and Conquer
+> Hindsight is always 20/20 but it helps to really focus on what you know and challenge your assumptions
