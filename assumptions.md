@@ -1,4 +1,4 @@
-# The hair pulling problem (or check your assumptions)
+# The conundrum (or check your assumptions)
 
 > Aarg!!!
 
