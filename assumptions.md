@@ -16,11 +16,7 @@ The cry of frustration was clearly heard in the dev room
 
 > I was thinking maybe it was a css thing with overflow hidden. Then I was thinking that maybe the data binding was wrong, or some property is set that makes things hidden in some of the event handlers. Maybe its the the data parsing...
 
-> Ok I see. There are a lot of different parts involved and you have been testing some things on different levels. You need to divide the problem in smaller parts to narrow down where the actual problem is. Divide and Conquer.   
-
-> Ok, but where do I start?
-
-> Let's start from the bottom and challenge your assumption.
+> Ok I see. There are a lot of different parts involved and you can't find where the problem is. Let's start from the bottom and challenge your assumption.
 
 > What do you mean?
 
